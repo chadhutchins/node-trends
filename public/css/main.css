@@ -1,0 +1,54 @@
+body {
+  overflow:hidden;
+}
+
+.word {
+  font-size:20px;
+  padding:10px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background: #999;
+  color: #fff;
+  overflow: hidden;
+  position: absolute;
+  z-index: 200;
+}
+
+.topWord {
+  font-size:20px;
+  color:#fff;
+  position:absolute;
+  word-wrap:break-word;
+  z-index: 100;
+}
+
+#topWord0 {
+  background: #162837;
+}
+#topWord1 {
+  background: #478359;
+}
+#topWord2 {
+  background: #329473;
+}
+#topWord3 {
+  background: #992828;
+}
+#topWord4 {
+  background: #535252;
+}
+#topWord5 {
+  background: #134133;
+}
+#topWord6 {
+  background: #987123;
+}
+#topWord7 {
+  background: #345679;
+}
+#topWord8 {
+  background: #811811;
+}
+#topWord9 {
+  background: #323578;
+}
