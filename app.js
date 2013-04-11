@@ -9,7 +9,7 @@ var twit = new twitter({
   consumer_key: '', /* twitter consumer key */
   consumer_secret: '', /* twitter consumer secret */
   access_token_key: '', /* twitter access token key */
-  access_token_secret: '', /* twitter access token secret */
+  access_token_secret: '' /* twitter access token secret */
 });
 
 var socket = io.listen(app); 
