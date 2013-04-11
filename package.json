@@ -1,0 +1,10 @@
+{
+    "name": "node-trends",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "2.5.8",
+        "socket.io": "> 0.9.0",
+        "twitter": ">= 0.1.18",
+        "hamljs": "> 0.6.0"
+    }
+}
